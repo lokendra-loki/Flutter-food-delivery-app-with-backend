@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
+//static member means we can access the member variable anywhere by just using class name
 class AppColors {
   static const Color mainColor = Color(0xFF89dad0);
   static const Color mainBlackColor = Color(0xFF332d2b);
